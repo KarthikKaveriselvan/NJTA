@@ -1609,21 +1609,22 @@
 			}
 
 			#header {
-				display: block;
+				display: none;
 			}
 			
 			#location {
 				background-color: #007294;
-				height: 60px;
+				height: 110px;
+				display: block;
 			}
 
 				#location span {
 					position: absolute;
 					z-index: 1;
 					width: 100%;
-					padding-top: 15px;
-					padding-bottom: 10px;
-					left: 15px;
+					padding-top: 50px;
+					padding-bottom: 5px;
+					left: 10px;
 					font-size: 1em;
 					color: #fff;
 					text-align: left;
