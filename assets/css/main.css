@@ -1164,6 +1164,15 @@
 			background: url("images/icon-bubble.png") no-repeat;
 		}
 
+	ul.simple {
+		list-style-type: circle;
+	}
+	
+	ul.simple li {
+		padding: 0.5em 0 0 0;
+		margin: 0 0 0 1em;
+	}
+	
 	ul.small-image-list li {
 		overflow: hidden;
 		margin-bottom: 1.5em;
