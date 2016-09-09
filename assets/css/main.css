@@ -1351,21 +1351,21 @@
 				box-sizing: content-box;
 				position: relative;
 				width: 1160px;
-				height: 265px;
+				height: 200px;
 				box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
 				border-radius: 10px;
 				padding: 20px;
 				background: #fff url(images/banner.jpg) no-repeat 20px 20px;
-				background-size: 1160px 265px;
+				background-size: 1160px 200px;
 			}
 
 				#banner h2 {
 					position: absolute;
 					z-index: 1;
 					width: 100%;
-					top: 100px;
+					top: 50px;
 					left: 0;
-					font-size: 3.3em;
+					font-size: 2.3em;
 					color: #fff;
 					text-align: center;
 					letter-spacing: -2px;
@@ -1376,11 +1376,11 @@
 					position: absolute;
 					z-index: 1;
 					width: 100%;
-					bottom: 105px;
-					left: 0;
-					font-size: 1.6em;
+					bottom: 50px;
+					left: 350px;
+					font-size: 1.3em;
 					color: #fff;
-					text-align: center;
+					text-align: left;
 					letter-spacing: -1px;
 					text-transform: _lowercase;
 					opacity: 0.8;
@@ -1459,18 +1459,19 @@
 
 			#banner {
 				width: 960px;
-				height: 220px;
-				background-size: 960px 220px;
+				height: 160px;
+				background-size: 960px 160px;
 			}
 
 				#banner h2 {
-					font-size: 3em;
-					top: 80px;
+					font-size: 2em;
+					top: 50px;
 				}
 
 				#banner span {
-					font-size: 1.4em;
-					bottom: 85px;
+					font-size: 1.1em;
+					left: 225px;
+					bottom: 50px;
 				}
 
 		/* Footer */
