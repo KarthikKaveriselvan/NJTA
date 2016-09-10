@@ -1406,7 +1406,6 @@
 				#location span {
 					position: absolute;
 					z-index: 1;
-					width: 100%;
 					padding-top: 10px;
 					padding-bottom: 10px;
 					left: 70px;
@@ -1621,7 +1620,6 @@
 				#location span {
 					position: absolute;
 					z-index: 1;
-					width: 100%;
 					padding-top: 50px;
 					padding-bottom: 5px;
 					left: 10px;
